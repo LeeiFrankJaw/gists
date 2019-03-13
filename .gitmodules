@@ -1,0 +1,9 @@
+[submodule "get-mu"]
+	path = get-mu
+	url = git@gist.github.com:75def6c339baf83bc510eb5840f068e8.git
+[submodule "setup-gitlab"]
+	path = setup-gitlab
+	url = git@gist.github.com:c5f29f2c642765e97fa1af4d61e843a3.git
+[submodule "setup-pagure"]
+	path = setup-pagure
+	url = git@gist.github.com:a327e7d1beec6534d44daaf5b600f25f.git

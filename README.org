@@ -1,0 +1,4 @@
+The domain /gist.github.com/ is DNS spoofed in this most populous
+country.  And SSH does not use NetworkManager for DNS resolution; it
+uses glibc resolver instead.  Add a correct static entry to
+=/etc/hosts= to work around this problem.
