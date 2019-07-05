@@ -7,3 +7,6 @@
 [submodule "setup-pagure"]
 	path = setup-pagure
 	url = git@gist.github.com:a327e7d1beec6534d44daaf5b600f25f.git
+[submodule "get-clang"]
+	path = get-clang
+	url = git@gist.github.com:356090e4d5a703594a09eae513396e50.git
