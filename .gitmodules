@@ -10,3 +10,6 @@
 [submodule "get-clang"]
 	path = get-clang
 	url = git@gist.github.com:356090e4d5a703594a09eae513396e50.git
+[submodule "iPhone-mencoder"]
+	path = iPhone-mencoder
+	url = git@gist.github.com:018145b065b5ca96664bc46c862d3955.git
