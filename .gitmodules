@@ -13,3 +13,6 @@
 [submodule "iPhone-mencoder"]
 	path = iPhone-mencoder
 	url = git@gist.github.com:018145b065b5ca96664bc46c862d3955.git
+[submodule "get-git"]
+	path = get-git
+	url = git@gist.github.com:3772766beae1b0d8db871dee885d8bb9.git
