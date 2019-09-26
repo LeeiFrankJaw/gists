@@ -16,3 +16,12 @@
 [submodule "get-git"]
 	path = get-git
 	url = git@gist.github.com:3772766beae1b0d8db871dee885d8bb9.git
+[submodule "get-python"]
+	path = get-python
+	url = git@gist.github.com:edea095637f39d38679dcf512bf6a2f9.git
+[submodule "get-shadowsocks"]
+	path = get-shadowsocks
+	url = git@gist.github.com:46eb1acfda68997d3e20c4b57abf1ef6.git
+[submodule "get-emacs"]
+	path = get-emacs
+	url = git@gist.github.com:7d674c8c36e5f02c7f4b69c0017d075c.git
