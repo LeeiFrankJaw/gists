@@ -25,3 +25,9 @@
 [submodule "get-emacs"]
 	path = get-emacs
 	url = git@gist.github.com:7d674c8c36e5f02c7f4b69c0017d075c.git
+[submodule "get-trojan"]
+	path = get-trojan
+	url = git@gist.github.com:37cc41c2e26c156933fc12d009f752d3.git
+[submodule "combine"]
+	path = combine
+	url = git@gist.github.com:98ab543a0da2f48993ebfca44ad68bf6.git
