@@ -31,3 +31,6 @@
 [submodule "combine"]
 	path = combine
 	url = git@gist.github.com:98ab543a0da2f48993ebfca44ad68bf6.git
+[submodule "get-orgmode"]
+	path = get-orgmode
+	url = git@gist.github.com:f30b4989e784cb9dea54b5df66ee6399.git
