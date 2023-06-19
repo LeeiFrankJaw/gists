@@ -34,3 +34,6 @@
 [submodule "get-orgmode"]
 	path = get-orgmode
 	url = git@gist.github.com:f30b4989e784cb9dea54b5df66ee6399.git
+[submodule "hocr2djvused"]
+	path = hocr2djvused
+	url = git@gist.github.com:12e461ea33de19a25e312a3026ac585b.git
