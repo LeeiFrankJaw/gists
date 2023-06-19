@@ -37,3 +37,6 @@
 [submodule "hocr2djvused"]
 	path = hocr2djvused
 	url = git@gist.github.com:12e461ea33de19a25e312a3026ac585b.git
+[submodule "compress"]
+	path = compress
+	url = git@gist.github.com:66a312e9d88fedb840cd0421fc6562af.git
